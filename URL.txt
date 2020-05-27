@@ -4,3 +4,4 @@ LOCALHOST
 localhost/Viewer.JS/javascript/#../docs/test.odt
 
 GITHUB
+https://ffreality.github.io/Viewer.JS/javascript/#../docs/test.odt
